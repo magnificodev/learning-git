@@ -1,4 +1,5 @@
-## Heyooo everyone, welcome to my Git :))
+## Welcome to Git :))
 
+- This is coming from 'magnificodev'
 - This is coming from 'Another Magnificodev'
 - I'm adding this from 'feature-branch'
